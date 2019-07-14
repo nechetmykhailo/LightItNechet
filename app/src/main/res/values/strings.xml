@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LightItNechet</string>
+    <string name="reviewHint">Оставте отзыв о продукте</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="registers">Зарегестрироваться</string>
+    <string name="rewivs">Оставить отзыв</string>
+    <string name="personalInf">Персональные данные</string>
+    <string name="Name">Имя</string>
+    <string name="LastName">Фамилия</string>
+    <string name="addPhoto">Добавить/Изменить фото</string>
+    <string name="addInf">Добавить/Изменить данные</string>
+    <string name="Logoout">Выход из аккаунта</string>
+    <string name="goToReg">Войти</string>
+    <string name="Reg">Регистрация</string>
+    <string name="editName">Введите имя</string>
+    <string name="editLastName">Введите фамилию</string>
+</resources>
