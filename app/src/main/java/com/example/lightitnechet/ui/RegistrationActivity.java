@@ -69,6 +69,7 @@ public class RegistrationActivity extends AppCompatActivity {
                         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                         setResult(Constants.KEY_PROFILE, intent);
                         User.getInstance().setToken(token);
+                        Toast.makeText(RegistrationActivity.this, "Успешно зарегестрировались", Toast.LENGTH_SHORT).show();
                         finish();
                     } else {
                         Toast.makeText(RegistrationActivity.this, "Ошибка регистрации", Toast.LENGTH_SHORT).show();
